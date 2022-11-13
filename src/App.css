@@ -5,13 +5,23 @@
 .App{
   border: 2px solid rgb(20, 76, 197);
 }
-.column{
+.column1{
     float: left;
-    width: 500px;
-    
+    width: 40%;
+}
+.column2{
+   float: right;
+   width: 60%; 
+}
+.center {
+  display: block;
+  margin-left: 20%;
+  margin-right: 30%;
+  margin-top: 2%;
+  
 }
 
-h1{font-size:50px;float:right;}
+h1{font-size:50px;float:left;}
 h2{font-size:30px; color: blue;}
 p{font-size:20px;}
 img{width:160px;height:180px;}

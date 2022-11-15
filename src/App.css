@@ -2,16 +2,16 @@
  height:100vh;
  background:rgb(95'167'190);
 }
-.App{
-  border: 2px solid rgb(20, 76, 197);
+.img border{
+  color: rgb(20, 76, 197);
 }
 .column1{
     float: left;
-    width: 40%;
+    width: 30%;
 }
 .column2{
    float: right;
-   width: 60%; 
+   width: 55%; 
 }
 .center {
   display: block;
@@ -21,8 +21,8 @@
   
 }
 
-h1{font-size:50px;float:left;}
-h2{font-size:30px; color: blue;}
+h1{font-size:40px;float:left;}
+p2{font-size:30px; color: blue;}
 p{font-size:20px;}
 img{width:160px;height:180px;}
 h3{font-size:20px;}

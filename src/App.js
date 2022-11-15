@@ -7,18 +7,18 @@ function App(){
   return(
     <div>
       <div class="column1">
-      <img src={pic} alt="my" class="center" img border= "3px solid #555" /></div>
+      <img src={pic} alt="my" class="center" img border= "3px" /></div>
       <div class="column2">
       <h1>RASHMI JAYASUNDARA<br/>University of Colombo</h1></div>
       <div class="column2">
-      <h2> Profile </h2>
+      <p2> Profile </p2>
       <p>I am a third-year undergraduate in the Faculty of Science studying Computer Science, Statistics and Mathematics at the
          University of Colombo. As a Computer Science student, I'm looking forward to learning about how Computer science is used in the real
          world. I like to learn new things and improve my skills.<br/>I am able to work under pressure and in a team environment. I
         enjoy working with team members. Moreover, I am a quick learner and would like to broaden my knowledge.</p></div>
      
     <div class="column1">
-      <h2>Personal Information</h2>
+      <p2>Personal Information</p2>
       <ul><p><li>Name:Rashmi Nirmani Nimeshika Jayasundara</li>
              <li>Birthdate:23/12/1997</li>
              <li>Gender   :Female</li>
@@ -26,7 +26,7 @@ function App(){
              <li>Nationality:SriLankan</li></p></ul></div>
 
     <div class="column2">
-      <h2>Education</h2>
+      <p2>Education</p2>
       <h3>1.Bachelor of Computer Science, Statistics and Mathematics in Physical Science(2019 present)</h3>
       <p><ul> University of Colombo,Colombo<br/>
               Computer Science, Statistics, Applied Mathematics,Information Technology, Pure Mathematics</ul></p>
@@ -49,11 +49,24 @@ function App(){
       <p><ul>Department of Official Languages & University of Colombo</ul></p></div>
       
       <div class="column1">
-      <h2>Objective</h2>
+      <p2>Objective</p2>
       <ul><p><li>Seek an entry-level position in a high-level professional environment to begin my career.</li>
              <li>Make a significant contributionto the success of the company while enhancing my skills.</li>
              <li>  Interested in a challenging career.</li></p></ul></div>
-     
+
+      <div class="column1">
+      <p2>Interests</p2>       
+      <ul><p><li>Learning New Skills</li>
+             <li>Club Memberships</li>
+             <li>Following new technolog</li></p></ul></div>
+
+      <div class="column1">
+      <p2>Skills</p2>
+      <p>Problem Solving</p>
+      <div class="container">
+      <div class="skills Problem Solving">90%</div>
+      </div>    
+    </div>
     </div>
   );
 }

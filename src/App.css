@@ -3,15 +3,15 @@
  background:rgb(95'167'190);
 }
 .img border{
-  color: rgb(20, 76, 197);
-}
+  color: rgb(20, 76, 197); 
+ }
 .column1{
     float: left;
-    width: 30%;
+    width: 35%;
 }
 .column2{
    float: right;
-   width: 55%; 
+   width: 60%; 
 }
 .center {
   display: block;
@@ -24,5 +24,17 @@
 h1{font-size:40px;float:left;}
 p2{font-size:30px; color: blue;}
 p{font-size:20px;}
-img{width:160px;height:180px;}
+img{width:160px;height:180px;/*shape-image-threshold:circle*/;}
 h3{font-size:20px;}
+
+html{
+  border-style: solid;
+  border-color: rgb(2, 11, 27); 
+  border: width 2px 4px;
+  padding: 1%;
+}
+/*how to take space between words
+span {
+  padding-bottom:1em;
+}*/
+

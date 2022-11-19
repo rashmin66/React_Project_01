@@ -2,8 +2,8 @@
  height:100vh;
  background:rgb(95'167'190);
 }
-.img border{
-  color: rgb(20, 76, 197); 
+.img {
+  border-color: rgb(12, 12, 27); 
  }
 .column1{
     float: left;
@@ -21,20 +21,18 @@
   
 }
 
-h1{font-size:40px;float:left;}
-p2{font-size:30px; color: blue;}
-p{font-size:20px;}
-img{width:160px;height:180px;/*shape-image-threshold:circle*/;}
+h1{font-size: 40px; float:left;}
+h2{font-size: 90px; color: rgb(6, 6, 124);}
 h3{font-size:20px;}
+img{width:160px;height:180px;}
+
 
 html{
   border-style: solid;
   border-color: rgb(2, 11, 27); 
-  border: width 2px 4px;
-  padding: 1%;
+  border: width 3px 4px;
+  padding: 3%;
+  margin: 50px;
 }
-/*how to take space between words
-span {
-  padding-bottom:1em;
-}*/
 
+ 

@@ -31,7 +31,6 @@ function App() {
           would like to broaden my knowledge.
         </p>
       </div>
-
       <div class="column1">
         <h2>Personal Information</h2>
         <strong>Name:</strong>
@@ -43,7 +42,6 @@ function App() {
         <strong>Nationality:</strong>
         <dd>SriLankan</dd>
       </div>
-
       <div class="column2">
         <h2>Education</h2>
         <ol>
@@ -95,7 +93,6 @@ function App() {
           </li>
         </ol>
       </div>
-
       <div class="column1">
         <h2>Objective</h2>
         <ul>
@@ -257,6 +254,119 @@ function App() {
             gpn@ucsc.cmb.ac.lk
           </a>
         </ul>
+        <strong>Dr.C.J.A.Jayawardena</strong>
+        <ul>
+          B.Sc (Colombo) , M.Sc (Ohio State) , M.Sc. , Ph.D. (Memphis State)
+          [Graph Theory , Combinatorics, Networking and Discrete Optimization.]
+          <br />
+          University of Colombo, Faculty of Science
+          <br />
+          0775550540
+          <br />
+          <a href="mailto:c_jayawardene@yahoo.com?subject = Feedback&body = Message">
+            c_jayawardene@yahoo.com
+          </a>
+        </ul>
+      </div>
+
+      <div class="column2">
+        <h2>Projects</h2>
+        <ol>
+          <li>
+            <h3>SOFT DRINKS MINI VENDING MACHINE(2021)</h3>
+            <ul>
+              University of Colombo
+              <br />
+              Used C# language in visual basic software (Group Project)
+            </ul>
+          </li>
+          <li>
+            <h3>UNITY LEVEL DESIGN(2022)</h3>
+            <ul>
+              Fiver
+              <br />
+              Used Unity
+            </ul>
+          </li>
+          <li>
+            <h3>UNITY BASIC GAME(2022)</h3>
+            <ul>
+              <a href="https://github.com/rashmin66/my_work_01">
+                https://github.com/rashmin66/my_work_01
+              </a>
+              <br />
+              Used C#,Unity,Visual Basic Software
+            </ul>
+          </li>
+          <li>
+            <h3>PORTFOLIO WEBSITE(2022)</h3>
+            <ul>
+              <a href="https://rashmin66.github.io/React_Project_01">
+                https://rashmin66.github.io/React_Project_01/
+              </a>
+              <br />
+              Used React.js, CSS, HTML
+            </ul>
+          </li>
+          <li>
+            <h3>
+              ANALYSIS OF ACCEPTANCE AND THE AMOUNT OF UTILIZATION OF DIGITAL
+              DELIVERY CHANNELS IN THE BANKING INDUSTRY(2021/2022)
+            </h3>
+            <ul>
+              University of Colombo
+              <br />
+              Corporate Sponsor - Nations Trust Bank PLC
+              <br />
+              Used Spss,Exel,Google Sheets
+            </ul>
+          </li>
+        </ol>
+        <h2>Extra-Curricular Activities</h2>
+        <ul>
+          <li>
+            Active member of Leo Club, Astronomy society in Faculty of Science,
+            University of Colombo. Member of Sri Lanka Red Cross Society since
+            2012.
+          </li>
+          <li>
+            Fresher`s Inter Faculty Championship of University of Colombo 2019,
+            Player of faculty hockey team, Faculty of science.
+          </li>
+          <li>
+            {" "}
+            Participated in Australian National Chemistry Quiz in 2013 and Quiz
+            Competition organized by Wayamba University of Sri Lanka in 2015 .
+            <li>
+              Former member of board of prefect in Holy Family Balika Kurunegala
+              in 2015.
+            </li>
+          </li>
+        </ul>
+        <br />
+        <h2>Contact</h2>
+        <strong>Address:</strong>
+        <dd>Henegedara,Walpola,Pothuhera</dd>
+        <strong>Tele:</strong> <dd>0716671147</dd>
+        <strong>Email:</strong> <dd>hansi20ra@gmail.com</dd>
+        <strong>Linkedin:</strong>
+        <dd>
+          <a href="https://www.linkedin.com/in/rashmi-jayasundara-155610203?subject">
+            https://www.linkedin.com/in/rashmi-jayasundara-155610203
+          </a>
+        </dd>
+        <strong>github:</strong>
+        <dd>
+          <a href="https://github.com/rashmin66?subject">
+            https://github.com/rashmin66
+          </a>
+        </dd>
+        <strong>fb:</strong>
+        <dd>
+          <a href="https://www.facebook.com/rashmi.herath.77920">
+            https://www.facebook.com/rashmi.herath.77920
+          </a>
+        </dd>
       </div>
     </div>
   );
